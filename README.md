@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/1146158149145989191/1150647043489009716/giphy.gif">
+<img src="https://cdn.discordapp.com/attachments/1135352221534527630/1150657716428226620/download_8.jpg">
 </p>
 <p align="center">
     I N F E C T E D
