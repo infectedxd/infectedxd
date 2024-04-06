@@ -1,9 +1,9 @@
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/1135352221534527630/1150657716428226620/download_8.jpg">
+<img src="https://i.pinimg.com/originals/e2/45/89/e2458995d5586be8423db8a7bf71dcbf.gif"alt="infectedxd" width="250" height="210">
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://github.com/infectedxd">I N F E C T E D</a>!!</h1>
-<h1 align="center">Life's a program, and I'm just here to write the code.</h1>
+<h1 align="center">Life's a program, and I'm just here to write the some code</h1>
     
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=infectedxd&color=blueviolet">
