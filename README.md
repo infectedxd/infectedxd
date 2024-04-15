@@ -1,9 +1,9 @@
+<p align="centre">
+  <img src="infected.gif" alt="infectedxd" width="300">
+</p>
+
 # Heya, Im [@infectedxd](https://infectedxd.xyz)👋🏻
 Life's a program, and I'm just here to write some code
-
-<p align="center">
-  <img src="infected.gif" alt="infectedxd">
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=infectedxd&color=blueviolet)
 
